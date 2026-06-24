@@ -4,7 +4,7 @@
 **Platform:** Qatobit — *India's Crypto Wealth Architect* · *Wealth, by design.*
 **Date:** 24 June 2026
 
-> This pack fills every row of the requirements table with research-backed, ASO-optimised copy, and adds the keyword research, competitive analysis, and strategy behind each choice. Items needing an internal fact (FIU-IND number, support inbox) are flagged in **[BRACKETS]** — everything else is ready to paste.
+> This pack fills every row of the requirements table with research-backed, ASO-optimised copy, and adds the keyword research, competitive analysis, and strategy behind each choice. Items needing an internal fact (support inbox, ₹ minimum, fees) are flagged in **[BRACKETS]** — everything else is ready to paste.
 
 > **⚠️ v2 update (post pressure-test):** A 15-persona user pressure test ([`Qatobit_ASO_PressureTest_and_Strategy.md`](./Qatobit_ASO_PressureTest_and_Strategy.md)) found the original fields converted 0/15 (14 "maybe", 1 abandon) because trust signals sat below the fold and the slogan led where a proof point should. The **title, subtitle, short description, keyword field, and screenshot order below have been revised to v2.** See the companion file for the full rationale, HVLC keyword lock, and content pillars.
 
@@ -14,9 +14,9 @@
 
 | S.No | Requirement | Details (ready to submit) |
 |------|-------------|---------------------------|
-| 1 | **Short Description** *(Play, max 80)* | **v2:** `FIU-IND registered. Proof of Reserves. Start a Crypto SIP from ₹[X].` **(70/80 at ₹100)** — leads with verifiable trust + actionable on-ramp. Insert real ₹ minimum. *(v1 was: "India's Crypto Wealth Architect. Crypto indices, SIP & tokenized assets.")* |
+| 1 | **Short Description** *(Play, max 80)* | **v2:** `Rules-based Crypto Indices & SIP. Live Proof of Reserves. Start from ₹[X].` **(74/80)** — leads with the differentiator + verifiable trust + actionable on-ramp. Insert real ₹ minimum. *(v1 was: "India's Crypto Wealth Architect. Crypto indices, SIP & tokenized assets.")* |
 | 2 | **Full Description** *(max 4000)* | See **Section 2** — 2,447/4,000 chars, keyword-optimised, compliance-safe. |
-| 3 | **Keywords** *(Apple field, max 100)* | **v2:** `safe,index,fund,sip,invest,investment,beginner,wealth,methodology,tokenized,stocks,fiu,bitcoin,app` **(98/100)** — drops speculative `trading/exchange/usdt` that mis-signal the audience; adds searched intent `safe/beginner/fiu/tokenized/stocks`. Apple only; Play earns keywords via title + description (see Section 5). |
+| 3 | **Keywords** *(Apple field, max 100)* | **v2:** `safe,secure,index,fund,sip,invest,investment,beginner,wealth,portfolio,tokenized,stocks,bitcoin,app` **(99/100)** — drops speculative `trading/exchange/usdt` that mis-signal the audience; adds searched intent `safe/secure/beginner/tokenized/stocks`. Apple only; Play earns keywords via title + description (see Section 5). |
 | 4 | **App Category** | **Primary: Finance.** (Both stores.) Secondary/browse tag on Play: *Finance → Investing*. **Must also complete** Google Play's *Financial Features Declaration* + *Crypto Exchanges & Wallets* declaration, and Apple's financial-app review notes. See Section 6. |
 | 5 | **Support URL / Contact Email** | URL: `https://qatobit.com/support` (or `/help`) · Email: **[CONFIRM: support@qatobit.com]**. A reachable support URL **and** email are mandatory for both stores. |
 | 6 | **Marketing URL** | `https://qatobit.com` (App Store marketing URL). Optional but recommended; use the homepage or a dedicated `https://qatobit.com/app` landing page. |
@@ -52,7 +52,7 @@ INVEST THE WAY DISCIPLINED INVESTORS DO
 • Qai — your in-platform AI companion, for portfolio questions answered in plain language
 
 TRUST YOU CAN VERIFY
-Live Proof of Reserves. Institutional-grade market data. Liquidity and execution infrastructure built for reliability. Qatobit is FIU-IND registered under the PMLA (Registration No. [INSERT FULL REG. NO.]; current registration is temporary). Qatobit is also CERT-In audited and Bybit PACT certified.
+Live Proof of Reserves — your assets, verifiable anytime. Institutional-grade market data. Liquidity and execution infrastructure built for reliability. Qatobit is also CERT-In audited and Bybit PACT certified.
 
 WHO QATOBIT IS FOR
 The first-time allocator who wants to start right. The multi-asset investor adding a disciplined crypto sleeve. Anyone who would rather understand a portfolio than chase a coin.
@@ -67,7 +67,7 @@ Download Qatobit and build crypto into your wealth — by design.
 Disclaimer: Crypto products are unregulated and can be highly volatile and risky; there may be no regulatory recourse for any loss from such transactions. Investments are subject to market risks. Past and current performance is not indicative of future results. Please read all product methodology and invest responsibly.
 ```
 
-**Compliance check:** FIU-IND referenced once (≤2/page rule), full registration number to be inserted; CERT-In audit and Bybit PACT certification each appear once, after the merits; standard investment disclaimer included.
+**Compliance check:** trust leads on Live Proof of Reserves; CERT-In audit and Bybit PACT certification each appear once, after the merits; standard investment disclaimer included.
 
 ---
 
@@ -81,7 +81,7 @@ Welcome to Qatobit — India's Crypto Wealth Architect.
 • Quick Buy/Sell with transparent pricing
 • Explore Real-World Assets & Tokenized Stocks
 • Ask Qai, your in-app AI companion
-• Live Proof of Reserves. FIU-IND registered.
+• Live Proof of Reserves — your assets, verifiable anytime.
 Wealth, by design.
 ```
 
@@ -103,10 +103,10 @@ The **app title** is the single strongest ranking signal in both stores. Use the
 | Field | Recommendation (v2) | Chars |
 |-------|----------------|-------|
 | App Title (Play & Apple, ≤30) | `Qatobit: Crypto Index & SIP` | 27 |
-| Apple Subtitle (≤30) | `FIU-IND. Invest, don't trade.` | 29 |
-| Promo Text (Apple, ≤170, editable anytime) | `Rules-based Crypto Indices & Crypto SIP. FIU-IND registered, Live Proof of Reserves. Invest in crypto the disciplined way — not a gamble.` | ~135 |
+| Apple Subtitle (≤30) | `Invest in crypto, by design.` | 28 |
+| Promo Text (Apple, ≤170, editable anytime) | `Rules-based Crypto Indices & Crypto SIP. Live Proof of Reserves. Invest in crypto the disciplined way — an allocation, not a gamble.` | ~131 |
 
-*v1 was* `Qatobit: Crypto Indices & SIP` / subtitle `Crypto Wealth, by Design`. The pressure test showed the slogan read as unverifiable marketing and "not for me"; the v2 subtitle puts a verifiable credential (the searched "FIU registered" intent) and the sharp disciplined-allocation frame in the second-most-scanned field. Singular "Index" matches the high-intent `crypto index fund` query stem. "Crypto index" + "SIP" remain a low-competition land-grab no direct competitor occupies (Section 5).
+*v1 was* `Qatobit: Crypto Indices & SIP` / subtitle `Crypto Wealth, by Design`. The pressure test showed the slogan read as unverifiable marketing and "not for me"; the v2 subtitle embeds the HVLC phrase `invest in crypto` (880/0.03) and the disciplined-allocation frame in the second-most-scanned field. Singular "Index" matches the high-intent `crypto index fund` query stem. "Crypto index" + "SIP" remain a low-competition land-grab no direct competitor occupies (Section 5).
 
 ---
 
@@ -140,7 +140,7 @@ All search-volume and competition figures below are from **Semrush, India (`in`)
 | coinswitch | 74,000 | Mass-market, beginner-first. |
 | wazirx | 49,500 | Legacy brand, declining trend. |
 | zebpay | 40,500 | Established, compliance-forward. |
-| mudrex | 27,100 | Closest *positioning* rival — "curated portfolios / coin sets," FIU-registered, ~30 lakh users. |
+| mudrex | 27,100 | Closest *positioning* rival — "curated portfolios / coin sets," ~30 lakh users. |
 
 **Takeaway:** Qatobit cannot out-shout incumbents on brand volume on day one. It can **own an uncontested sub-category** — *crypto index / crypto index fund / crypto SIP / methodology-first* — where competition is near-zero and the positioning is differentiated. Do **not** put competitor brand names in the Apple keyword field (Apple rejects it); instead win those users through category terms + superior listing conversion.
 
@@ -158,8 +158,8 @@ All search-volume and competition figures below are from **Semrush, India (`in`)
 ## 6. App Category, Content Rating & Mandatory Crypto Declarations
 
 ### Category
-- **Play Store primary category: Finance.** Complete the **Financial Features Declaration** (required for all financial apps) and the **Cryptocurrency Exchanges & Software Wallets** declaration — Google's policy tightened (effective Oct 2025) and crypto-service apps must declare and meet local regulatory requirements. Be ready to attach your **FIU-IND registration** as proof of compliance for the India region.
-- **App Store category: Finance.** In App Review notes, state that Qatobit is operated by a registered entity (Qatobit Private Limited) and FIU-IND registered under PMLA; Apple requires crypto-exchange apps to be offered by the registered exchange/institution itself.
+- **Play Store primary category: Finance.** Complete the **Financial Features Declaration** (required for all financial apps) and the **Cryptocurrency Exchanges & Software Wallets** declaration — Google's policy tightened (effective Oct 2025) and crypto-service apps must declare and meet local regulatory requirements. Be ready to attach your **applicable Indian regulatory / compliance documentation** as proof for the India region.
+- **App Store category: Finance.** In App Review notes, state that Qatobit is operated by a registered entity (Qatobit Private Limited) that complies with applicable Indian regulations; Apple requires crypto-exchange apps to be offered by the registered exchange/institution itself.
 
 ### Content Rating questionnaire — honest answers
 | Question | Answer |
@@ -181,7 +181,7 @@ For a KYC-based crypto wealth app, expect to declare the following. Confirm agai
 
 | Data type | Collected | Shared | Purpose | Notes |
 |---|---|---|---|---|
-| Name, email, phone | Yes | With KYC/compliance & payment processors | Account, compliance (PMLA/KYC) | Required |
+| Name, email, phone | Yes | With KYC/compliance & payment processors | Account, AML/KYC compliance | Required |
 | Government ID / KYC docs (PAN, Aadhaar/passport, photo) | Yes | KYC verification vendor | Identity verification, AML | Sensitive — encrypt, justify |
 | Financial info (bank/UPI, transactions, holdings) | Yes | Payment & settlement partners | Deposits, withdrawals, trading | Core function |
 | Device IDs / diagnostics / crash logs | Yes | Analytics provider | App stability, fraud prevention | |
@@ -197,7 +197,7 @@ State affirmatively: data is encrypted in transit; users can request deletion; t
 
 Per the requirements doc, the design team will produce all graphics; they only need **confirmation of which 5 screens** to feature. **Order revised to v2** after the pressure test — 11 of 15 personas decide before slot 3, and the original methodology-first lead repelled the largest (beginner) cluster while burying the trust signals everyone wanted. Order = conversion order; slots 1–2 are seen without scrolling and matter most:
 
-1. **Trust screen** — Live Proof of Reserves + FIU-IND badge. *Caption: "Live Proof of Reserves. FIU-IND registered (provisional). Your money, verifiable anytime."* (Strongest card — must lead.)
+1. **Trust screen** — Live Proof of Reserves. *Caption: "Live Proof of Reserves. Your assets, verifiable anytime."* (Strongest card — must lead.)
 2. **Crypto SIP setup** with a concrete minimum. *Caption: "Start a Crypto SIP from ₹[X]/month. No trading skills needed."*
 3. **The four QSI Crypto Indices** — now decoded. *Caption: "Core = blue-chip basket · Growth = [mandate] · VRION = [mandate] · GEQ10 = top 10 tokenized global equities. An index — like a Nifty 50, for crypto."*
 4. **The methodology view** — a QSI index's construction logic. *Caption: "Published inclusion/exclusion rules. Monthly rebalancing. See the methodology before you invest."* (Kept for sophisticated investors, moved out of the lead.)
@@ -212,7 +212,7 @@ Per the requirements doc, the design team will produce all graphics; they only n
 **The conversion path (same for every audience):** Understand methodology → Trust platform → Invest. Every listing field above is engineered to move the reader one step along it.
 
 1. **Differentiate on category, not brand volume.** Incumbents (CoinDCX, CoinSwitch) own "crypto exchange/trading." Qatobit owns **"crypto index / methodology-first / crypto SIP / crypto wealth"** — near-zero ASO competition, and a genuinely different product. Lead the title and screenshots with it.
-2. **Lead the listing with the merits, then credentials.** The description sells methodology, the QSI suite, SIP, RWAs/tokenized stocks and Qai first; FIU-IND / CERT-In / Bybit PACT / Proof of Reserves close the trust gap second. In a market where the top ASO signal is now "FIU-registered & compliant," this is both differentiated *and* table-stakes-covered.
+2. **Lead the listing with the merits, then credentials.** The description sells methodology, the QSI suite, SIP, RWAs/tokenized stocks and Qai first; Live Proof of Reserves, CERT-In audit and Bybit PACT certification close the trust gap second. In a market where the top ASO signal is verifiable safety, this is both differentiated *and* table-stakes-covered.
 3. **Win on conversion, not just ranking.** Against high-volume head terms you can't out-rank incumbents immediately — but a methodology-led first screenshot and a 4.5★+ rating push your conversion rate up, which in turn lifts ranking. Prioritise ratings prompts after a successful SIP/first invest.
 4. **Plant flags on emerging terms.** "Crypto SIP," "tokenized stocks," "RWAs" have little search volume today; seeding them now means Qatobit is the default result as the category grows in India.
 5. **Localise next.** Hindi (and later Tamil/Telugu/etc.) localised listings are a large untapped ASO lever in India — incumbents like CoinSwitch already use multi-language. Phase 2.
@@ -220,7 +220,6 @@ Per the requirements doc, the design team will produce all graphics; they only n
 ---
 
 ## 10. Open Items to Confirm Internally
-- [ ] **Full FIU-IND registration number** (to insert into the full description & Play declaration).
 - [ ] **Support email** — confirm `support@qatobit.com` is live and monitored.
 - [ ] **Live URLs** before submission: `/support`, `/privacy`, terms.
 - [ ] **Developer account legal name + address** match incorporation (Qatobit Private Limited, Chennai).
@@ -229,4 +228,4 @@ Per the requirements doc, the design team will produce all graphics; they only n
 
 ---
 
-*Sources: Semrush India keyword database (Jun 2026); Google Play Console policy (Cryptocurrency Exchanges & Software Wallets; Financial Features Declaration); competitor listings (CoinDCX, CoinSwitch, Mudrex, ZebPay, WazirX). Brand facts per Qatobit (Chennai-based; QSI indices; Kaiko data; Bybit execution; FIU-IND registered, CERT-In audited, Live Proof of Reserves).*
+*Sources: Semrush India keyword database (Jun 2026); Google Play Console policy (Cryptocurrency Exchanges & Software Wallets; Financial Features Declaration); competitor listings (CoinDCX, CoinSwitch, Mudrex, ZebPay, WazirX). Brand facts per Qatobit (Chennai-based; QSI indices; Kaiko data; Bybit execution; CERT-In audited; Live Proof of Reserves).*

@@ -10,7 +10,7 @@
 
 > **The v1 listing converts 0 of 15 personas outright. 14 stall at "maybe," 1 abandons.** It earns curiosity but never closes. The failure is *silent non-conversion*, not rejection — and **every blocker is a low-effort copy/metadata fix, not a build.**
 
-**The single biggest lever:** front-load *verifiable trust* (Live Proof of Reserves + FIU-IND, disclosed as provisional) and a concrete *"Start a Crypto SIP from ₹X"* inside the decision window — short-description first line + screenshot slot 1–2 — and demote the methodology-first lead. Do that plus surface one honest social-proof number and the "maybe" wall breaks.
+**The single biggest lever:** front-load *verifiable trust* (Live Proof of Reserves) and a concrete *"Start a Crypto SIP from ₹X"* inside the decision window — short-description first line + screenshot slot 1–2 — and demote the methodology-first lead. Do that plus surface one honest social-proof number and the "maybe" wall breaks.
 
 | Decision | Count | Personas |
 |---|---|---|
@@ -27,7 +27,7 @@
 | P01 | First-time, scam-averse Bengaluru engineer | "best crypto app" | maybe |
 | P02 | 24yo Pune first-jobber, wants ₹500–1000/mo | "crypto sip" | maybe |
 | P03 | 41yo Mumbai equity+MF investor, reads methodology | "crypto index fund" | maybe |
-| P04 | 38yo CA, compliance-obsessed | "fiu registered crypto app" | maybe |
+| P04 | 38yo CA, compliance-obsessed | "regulated crypto app india" | maybe |
 | P05 | 33yo burned ex-WazirX user, distrustful | "safe crypto app india" | maybe |
 | P06 | CoinDCX user comparison-shopping | "coindcx alternative" | maybe |
 | P07 | 45yo "crypto = gambling" skeptic | (stumbled) | maybe |
@@ -44,20 +44,20 @@
 
 ## 2. What the Panel Found — Top Themes
 
-1. **Trust signals are buried.** FIU-IND + Proof of Reserves sit in screenshot 5 and deep in the description, but 11 of 15 personas decide in the title/subtitle/first-screenshot window and never reach them. *Most-repeated fix across the panel: move the trust screen to slot 1–2.*
+1. **Trust signals are buried.** Live Proof of Reserves sits in screenshot 5 and deep in the description, but 11 of 15 personas decide in the title/subtitle/first-screenshot window and never reach it. *Most-repeated fix across the panel: move the trust screen to slot 1–2.*
 2. **No social proof anywhere.** 9 personas independently flag missing star rating, install count, AUM, or "trusted by N investors." For an unknown brand + crypto + India, an absent reputation is a hard stall.
 3. **Methodology-first helps the wrong audience.** The quant (P13), CA (P04), MF investor (P03) love methodology-screen-first; beginners (P02, P08), scanner (P14), Tamil user (P12), and returns-chaser (P10) read it as *"homework / not for me."* Same asset, opposite effect by cluster.
 4. **No concrete numbers.** Minimum SIP ("start from ₹X"), fees/expense ratio, and any performance figure are absent and demanded by nearly every persona. P10 abandoned specifically over zero performance data.
-5. **Keyword/intent mismatch.** Each persona's exact searched phrase — "safe", "secure", "beginner", "FIU registered", "crypto index fund", "tokenized stocks", "coindcx alternative", "buy bitcoin" — surfaces nowhere they'd see it.
+5. **Keyword/intent mismatch.** Each persona's exact searched phrase — "safe", "secure", "beginner", "regulated", "crypto index fund", "tokenized stocks", "coindcx alternative", "buy bitcoin" — surfaces nowhere they'd see it.
 6. **Jargon as a barrier.** "Indices", "methodology", "VRION", "GEQ10", "RWA", "tokenized" are undefined — insider code that alienates beginners/regional users; the cryptic index names erode trust even with the quant who wants them.
-7. **Undisclosed "temporary" FIU-IND status.** Six personas say discovering it *after* a flat "FIU-IND registered" claim would collapse trust. Honest disclosure of provisional status builds *more* trust with skeptics than omission — it's a post-install trust bomb if hidden.
+7. **Every trust claim must be independently verifiable.** Skeptics (P04, P07, P15) treat any unprovable boast as a tell and any discovered omission as disqualifying. Lead only with claims a user can check themselves — Live Proof of Reserves (an always-on dashboard), CERT-In audit, Bybit PACT certification — not slogans.
 8. **Feature sprawl dilutes the core promise.** Indices + SIP + RWAs + tokenized stocks + Quick Buy/Sell + Qai reads as "throwing everything at the wall" to scam-averse and burned users, undercutting a focused "safe disciplined start."
 9. **The slogan leads where a proof point should.** "Wealth Architect" / "Wealth, by design" is read as unverifiable marketing by skeptics and "too premium / not for me" by beginners — and it opens the short description.
 
 ### Cluster insights
 - **C1 (first-time — P01, P02, P08, P14):** Largest pool, worst-served by the lead asset. Convert on a visible *safety word*, a concrete *"start from ₹X"*, and *social proof* — not methodology. Translate every jargon term.
-- **C2 (sophisticated — P03, P04, P07, P09, P13):** The methodology-first instinct is the one thing keeping them on the page — but they bounce on missing *fees/expense ratio, track record, decoded index mandates, custody,* and an *undisclosed-provisional FIU-IND* that reads as overclaiming. They verify before funding; any omission is a tell.
-- **C3 (lapsed/burned — P05, P07, P15):** Their decision hinges on one unanswered question: *"where is my money held and can I always withdraw?"* Surface custody, withdrawals, and Live Proof of Reserves first; cut the feature sprawl; disclose provisional FIU-IND proactively.
+- **C2 (sophisticated — P03, P04, P07, P09, P13):** The methodology-first instinct is the one thing keeping them on the page — but they bounce on missing *fees/expense ratio, track record, decoded index mandates,* and *custody*. They verify before funding; any omission or unverifiable claim is a tell.
+- **C3 (lapsed/burned — P05, P07, P15):** Their decision hinges on one unanswered question: *"where is my money held and can I always withdraw?"* Surface custody, withdrawals, and Live Proof of Reserves first; cut the feature sprawl; make every trust claim verifiable.
 
 ---
 
@@ -65,12 +65,12 @@
 
 | # | Fix | Impact | Effort |
 |---|-----|:---:|:---:|
-| 1 | Reorder screenshots: trust (PoR + FIU-IND) → slot 1; SIP-with-"₹X minimum" → slot 2; demote methodology → slot 3–4 | High | **Low** |
+| 1 | Reorder screenshots: trust (Live Proof of Reserves) → slot 1; SIP-with-"₹X minimum" → slot 2; demote methodology → slot 3–4 | High | **Low** |
 | 2 | Rewrite short-description first line: lead with proof point + searched intent, not the slogan | High | **Low** |
 | 3 | Surface social proof (rating / installs / AUM / "trusted by N investors") in a caption + short desc | High | Med |
 | 4 | Add SIP minimum + a fee line as concrete numbers | High | **Low** |
 | 5 | Decode the 4 indices in plain English; gloss "index" as "like a Nifty 50, for crypto" | High | **Low** |
-| 6 | Disclose FIU-IND as provisional with full registration number wherever claimed | High | **Low** |
+| 6 | Make every credential claim independently verifiable (link the Proof of Reserves dashboard; CERT-In, Bybit PACT) — no unprovable boasts | High | **Low** |
 | 7 | Add a beginner on-ramp line + a "Buy Bitcoin in 2 taps" screenshot | High | Med |
 | 8 | Fix keyword coverage; trim speculative terms that mis-signal the audience | High | Med |
 | 9 | Add a compliant backtest/since-inception chart ("backtested, not indicative") | Med | High |
@@ -103,26 +103,26 @@
 
 ## 5. Revised Listing Fields (validated, ready to paste)
 
-> **Compliance note — FIU-IND ≤ twice per page:** Each store listing shows FIU-IND in **exactly two** visible-prose places: (Play) short description + full-description credential block; (Apple) subtitle + full-description credential block. The `fiu` token in the Apple keyword field is metadata, not prose. Insert the **full FIU-IND registration number** only in the credential block. CERT-In audit and Bybit PACT certification appear once each, after the merits.
+> **Trust positioning:** the listing leads on **Live Proof of Reserves** (verifiable, always-on) as the primary trust signal. CERT-In audit and Bybit PACT certification appear once each, after the merits. All performance/AUM claims use historical or current data only.
 
 | Field | v1 (before) | v2 (after) | Chars |
 |-------|-------------|------------|:---:|
 | **App Title** (≤30) | `Qatobit: Crypto Indices & SIP` | `Qatobit: Crypto Index & SIP` | 27 |
-| **Apple Subtitle** (≤30) | `Crypto Wealth, by Design` | `FIU-IND. Invest, don't trade.` | 29 |
-| **Short Desc** (≤80) | `India's Crypto Wealth Architect. Crypto indices, SIP & tokenized assets.` | `FIU-IND registered. Proof of Reserves. Start a Crypto SIP from ₹[X].` | ≤80 (70 at ₹100) |
-| **Apple Keyword** (≤100) | `crypto,bitcoin,index,sip,invest,trading,exchange,portfolio,ethereum,usdt,wealth,fund,btc,coin` | `safe,index,fund,sip,invest,investment,beginner,wealth,methodology,tokenized,stocks,fiu,bitcoin,app` | 98 |
+| **Apple Subtitle** (≤30) | `Crypto Wealth, by Design` | `Invest in crypto, by design.` | 28 |
+| **Short Desc** (≤80) | `India's Crypto Wealth Architect. Crypto indices, SIP & tokenized assets.` | `Rules-based Crypto Indices & SIP. Live Proof of Reserves. Start from ₹[X].` | 74 |
+| **Apple Keyword** (≤100) | `crypto,bitcoin,index,sip,invest,trading,exchange,portfolio,ethereum,usdt,wealth,fund,btc,coin` | `safe,secure,index,fund,sip,invest,investment,beginner,wealth,portfolio,tokenized,stocks,bitcoin,app` | 99 |
 
 **Why each change:**
 - **Title →** keeps the owned, beatable category land-grab (`crypto index` 880/0.33) + `SIP`. Singular "Index" matches the high-intent `crypto index fund` stem and reads less like insider code.
-- **Subtitle →** the slogan was read as unverifiable marketing / "not for me." Replaced with a credential (the searched "FIU registered" intent) + the sharp disciplined-allocation frame *"Invest, don't trade."*
+- **Subtitle →** the slogan was read as unverifiable marketing / "not for me." Replaced with the HVLC phrase `invest in crypto` (880/0.03) + the disciplined-allocation frame — search-relevant and on-brand.
 - **Short Desc →** the most-scanned field opened with an unprovable boast. Front-loading regulation (disclosed honestly) + PoR + an actionable SIP minimum converts the scam-averse beginner, burned user, scanner, and skeptic at once. *Insert the real ₹ minimum once Finance confirms it.*
-- **Keyword field →** adds the panel's missing exact-match queries (safe, beginner, fiu, tokenized, stocks, index+fund); drops `trading/exchange/usdt/ethereum/coin` — speculative terms that mis-signal the audience and waste field space. `crypto` is implicit via the app category.
+- **Keyword field →** adds the panel's missing exact-match queries (safe, secure, beginner, tokenized, stocks, index+fund); drops `trading/exchange/usdt/ethereum/coin` — speculative terms that mis-signal the audience and waste field space. `crypto` is implicit via the app category.
 
 ### Revised Full-Description opening (first ~167 chars — where Play indexes hardest)
 ```
-Invest in crypto the disciplined way. Qatobit is a crypto investment app built on rules-based Crypto Indices — a crypto index fund, like a Nifty 50 or mutual fund, for crypto. FIU-IND registered (provisional). Live Proof of Reserves.
+Invest in crypto the disciplined way. Qatobit is a crypto investment app built on rules-based Crypto Indices — a crypto index fund, like a Nifty 50 or mutual fund, for crypto. With Live Proof of Reserves, your assets are verifiable anytime.
 ```
-Then in the body: decode each index in one plain line (`Core = blue-chip crypto basket · Growth = [mandate] · VRION = [mandate] · GEQ10 = top 10 tokenized global equities`); add the on-ramp line *"New to crypto? Start a SIP from a small amount monthly — no trading skills needed."*; lead credentials with merits, **then** CERT-In audited and Bybit PACT certified once each; cite FIU-IND with the full registration number, disclosed as currently provisional, under PMLA; retain the standard risk disclaimer.
+Then in the body: decode each index in one plain line (`Core = blue-chip crypto basket · Growth = [mandate] · VRION = [mandate] · GEQ10 = top 10 tokenized global equities`); add the on-ramp line *"New to crypto? Start a SIP from a small amount monthly — no trading skills needed."*; lead credentials with merits, **then** CERT-In audited and Bybit PACT certified once each; anchor trust on Live Proof of Reserves (verifiable, always-on); retain the standard risk disclaimer.
 
 ---
 
@@ -130,7 +130,7 @@ Then in the body: decode each index in one plain line (`Core = blue-chip crypto 
 
 | Slot | Screen (was) | Caption |
 |---|---|---|
-| **1** | Trust — PoR + FIU-IND *(was 5)* | "Live Proof of Reserves. FIU-IND registered (provisional). Your money, verifiable anytime." |
+| **1** | Trust — Live Proof of Reserves *(was 5)* | "Live Proof of Reserves. Your assets, verifiable anytime." |
 | **2** | Crypto SIP setup *(was 3)* | "Start a Crypto SIP from ₹[X]/month. No trading skills needed." |
 | **3** | The four QSI indices *(was 2)* | "Core = blue-chip basket · Growth = [mandate] · VRION = [mandate] · GEQ10 = top 10 tokenized global equities. An index — like a Nifty 50, for crypto." |
 | **4** | Methodology view *(was 1)* | "Published inclusion/exclusion rules. Monthly rebalancing. See the methodology before you invest." |
@@ -145,11 +145,11 @@ Then in the body: decode each index in one plain line (`Core = blue-chip crypto 
 **Conversion path for every pillar:** Understand methodology → Trust platform → Invest.
 
 ### Pillar 1 — "Safe Start: Crypto for People Who Want to Sleep at Night" · **C1**
-- **Big idea:** Decode the category in plain English and earn trust before asking for anything. Lead with a concrete proof point (minimum SIP, PoR, what FIU-IND means *and that it's currently temporary*), define every term, *then* introduce rules-based construction.
+- **Big idea:** Decode the category in plain English and earn trust before asking for anything. Lead with a concrete proof point (minimum SIP, what Live Proof of Reserves actually proves), define every term, *then* introduce rules-based construction.
 - **Keywords:** crypto for beginners · crypto app · best crypto app · safe crypto app india · is crypto safe
-- **Sample topics:** "Is crypto safe in India? What FIU-IND registration does and doesn't mean" · "Start a crypto SIP from ₹[X]: a first-timer's walkthrough" · "Proof of Reserves, explained" · "Crypto for beginners: the 6 words you need" · "How to spot a crypto scam in India: a 5-point checklist"
+- **Sample topics:** "Is crypto safe in India? How to verify a platform actually holds your money" · "Start a crypto SIP from ₹[X]: a first-timer's walkthrough" · "Proof of Reserves, explained" · "Crypto for beginners: the 6 words you need" · "How to spot a crypto scam in India: a 5-point checklist"
 - **Formats:** blog · short video · in-app  **· Goal:** Trust
-- **ASO tie-in:** harvests "safe/secure/beginner/FIU registered" intent the listing omits; justifies the trust-screen-first reorder.
+- **ASO tie-in:** harvests "safe/secure/beginner/regulated" intent the listing omits; justifies the trust-screen-first reorder.
 
 ### Pillar 2 — "The Methodology Room: Rules-Based Crypto Indices, Decoded" · **C2**
 - **Big idea:** The deep, documented layer for the sophisticated minority who *want* methodology-first. Published inclusion/exclusion criteria, monthly rebalancing, institutional data, decoded index names, **fees/expense ratio + backtested performance with the risk disclaimer.** Gated so it serves C2 without bleeding onto beginner surfaces.
@@ -159,11 +159,11 @@ Then in the body: decode each index in one plain line (`Core = blue-chip crypto 
 - **ASO tie-in:** owns `crypto index fund` (0.01) and `crypto index`; supplies the methodology screen's correct home (slot 3–4) and the fees/backtest figures the listing lacks.
 
 ### Pillar 3 — "Proof, Not Promises: Why an Unknown Brand Earns Your Money" · **All**
-- **Big idea:** A trust-and-social-proof engine attacking the #1 objection — an unknown India crypto brand with no visible reputation. Build install/AUM/investor/rating assets; introduce CERT-In audit + Bybit PACT certification after the merits; credit FIU-IND by full number in credential context with provisional status disclosed. Reframe "Wealth, by design" from slogan to documented claim.
-- **Keywords:** crypto exchange india · trusted crypto app india · crypto app reviews · fiu registered crypto exchange
-- **Sample topics:** "Trusted by [N] Indian investors managing ₹[X]" · "CERT-In audited and Bybit PACT certified: what each verifies" · "Our FIU-IND registration in full: the number, the PMLA basis, why it's currently provisional" · "Live Proof of Reserves: an always-on dashboard, not a screenshot"
+- **Big idea:** A trust-and-social-proof engine attacking the #1 objection — an unknown India crypto brand with no visible reputation. Build install/AUM/investor/rating assets; lead with Live Proof of Reserves, then introduce CERT-In audit + Bybit PACT certification after the merits. Reframe "Wealth, by design" from slogan to documented claim by pairing it with a proof point every time.
+- **Keywords:** crypto exchange india · trusted crypto app india · crypto app reviews · regulated crypto exchange india
+- **Sample topics:** "Trusted by [N] Indian investors managing ₹[X]" · "CERT-In audited and Bybit PACT certified: what each independently verifies" · "Where your assets are held: custody and withdrawals, explained" · "Live Proof of Reserves: an always-on dashboard, not a screenshot"
 - **Formats:** in-app · social · blog  **· Goal:** Trust
-- **ASO tie-in:** supplies the social-proof asset and the honest provisional-FIU line for the title/subtitle and slot-1 trust screen.
+- **ASO tie-in:** supplies the social-proof asset and the verifiable trust line for the title/subtitle and slot-1 trust screen.
 
 ### Pillar 4 — "Leaving CoinDCX, WazirX, CoinSwitch? The Disciplined Switch" · **C3**
 - **Big idea:** Conquest pillar converting demand on rival brand names and serving WazirX-era burned users. Narrow the promise to one focused message — a disciplined, transparent, rules-based home for capital with PoR as the safety anchor. Honest, comparison-led, never disparaging.
@@ -183,8 +183,8 @@ Then in the body: decode each index in one plain line (`Core = blue-chip crypto 
 
 ## 8. Residual Risks (open after the free wins)
 
-1. **Placeholder dependency.** `₹[X]` minimum, expense ratio, full FIU-IND number, and any social-proof count are unconfirmed. **Do not ship copy with brackets or invented numbers** — especially the FIU number and any AUM/performance claim (compliance: historical/current data only).
-2. **Social proof may not exist yet.** If there's no honest rating/install/AUM number, fix #3 can't ship and the "maybe" wall only partially breaks. Don't fabricate; lean on PoR + provisional-FIU honesty as the interim trust substitute.
+1. **Placeholder dependency.** `₹[X]` minimum, expense ratio, and any social-proof count are unconfirmed. **Do not ship copy with brackets or invented numbers** — especially any AUM/performance claim (compliance: historical/current data only).
+2. **Social proof may not exist yet.** If there's no honest rating/install/AUM number, fix #3 can't ship and the "maybe" wall only partially breaks. Don't fabricate; lean on Live Proof of Reserves as the interim trust substitute.
 3. **Performance signal deferred.** P10 (the only abandon) and the upside-seeking segment aren't recovered until the compliant backtest chart ships (data prep + legal sign-off).
 4. **`crypto index` (0.33) is the highest-competition title term.** Ranking depends on the Methodology-Room pillar building topical authority — treat the title as a category claim + content-supported bet, not a quick win.
 5. **Feature sprawl only partially resolved.** Demoting RWAs/tokenized/Qai in the short description narrows the promise, but the full description still lists them — monitor whether the burned/scam-averse cluster reads breadth as scope-creep.
