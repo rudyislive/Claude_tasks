@@ -6,15 +6,17 @@
 
 > This pack fills every row of the requirements table with research-backed, ASO-optimised copy, and adds the keyword research, competitive analysis, and strategy behind each choice. Items needing an internal fact (FIU-IND number, support inbox) are flagged in **[BRACKETS]** — everything else is ready to paste.
 
+> **⚠️ v2 update (post pressure-test):** A 15-persona user pressure test ([`Qatobit_ASO_PressureTest_and_Strategy.md`](./Qatobit_ASO_PressureTest_and_Strategy.md)) found the original fields converted 0/15 (14 "maybe", 1 abandon) because trust signals sat below the fold and the slogan led where a proof point should. The **title, subtitle, short description, keyword field, and screenshot order below have been revised to v2.** See the companion file for the full rationale, HVLC keyword lock, and content pillars.
+
 ---
 
 ## 1. Completed Requirements Table
 
 | S.No | Requirement | Details (ready to submit) |
 |------|-------------|---------------------------|
-| 1 | **Short Description** *(Play, max 80)* | `India's Crypto Wealth Architect. Crypto indices, SIP & tokenized assets.` **(72/80)** |
+| 1 | **Short Description** *(Play, max 80)* | **v2:** `FIU-IND registered. Proof of Reserves. Start a Crypto SIP from ₹[X].` **(70/80 at ₹100)** — leads with verifiable trust + actionable on-ramp. Insert real ₹ minimum. *(v1 was: "India's Crypto Wealth Architect. Crypto indices, SIP & tokenized assets.")* |
 | 2 | **Full Description** *(max 4000)* | See **Section 2** — 2,447/4,000 chars, keyword-optimised, compliance-safe. |
-| 3 | **Keywords** *(Apple field, max 100)* | `crypto,bitcoin,index,sip,invest,trading,exchange,portfolio,ethereum,usdt,wealth,fund,btc,coin` **(93/100)** — Apple only. Play Store has **no** keyword field; keywords are earned through the title + description (see Section 5). |
+| 3 | **Keywords** *(Apple field, max 100)* | **v2:** `safe,index,fund,sip,invest,investment,beginner,wealth,methodology,tokenized,stocks,fiu,bitcoin,app` **(98/100)** — drops speculative `trading/exchange/usdt` that mis-signal the audience; adds searched intent `safe/beginner/fiu/tokenized/stocks`. Apple only; Play earns keywords via title + description (see Section 5). |
 | 4 | **App Category** | **Primary: Finance.** (Both stores.) Secondary/browse tag on Play: *Finance → Investing*. **Must also complete** Google Play's *Financial Features Declaration* + *Crypto Exchanges & Wallets* declaration, and Apple's financial-app review notes. See Section 6. |
 | 5 | **Support URL / Contact Email** | URL: `https://qatobit.com/support` (or `/help`) · Email: **[CONFIRM: support@qatobit.com]**. A reachable support URL **and** email are mandatory for both stores. |
 | 6 | **Marketing URL** | `https://qatobit.com` (App Store marketing URL). Optional but recommended; use the homepage or a dedicated `https://qatobit.com/app` landing page. |
@@ -98,14 +100,13 @@ Questions? support@qatobit.com
 
 The **app title** is the single strongest ranking signal in both stores. Use the brand + the two highest-volume relevant keywords.
 
-| Field | Recommendation | Chars |
+| Field | Recommendation (v2) | Chars |
 |-------|----------------|-------|
-| App Title (Play, ≤30) | `Qatobit: Crypto Indices & SIP` | 29 |
-| App Title (Apple, ≤30) | `Qatobit: Crypto Indices & SIP` | 29 |
-| Apple Subtitle (≤30) | `Crypto Wealth, by Design` | 24 |
-| Promo Text (Apple, ≤170, editable anytime) | `Methodology-first crypto indices, Crypto SIP, tokenized stocks & RWAs. FIU-IND registered. Read the methodology, then invest. Wealth, by design.` | ~143 |
+| App Title (Play & Apple, ≤30) | `Qatobit: Crypto Index & SIP` | 27 |
+| Apple Subtitle (≤30) | `FIU-IND. Invest, don't trade.` | 29 |
+| Promo Text (Apple, ≤170, editable anytime) | `Rules-based Crypto Indices & Crypto SIP. FIU-IND registered, Live Proof of Reserves. Invest in crypto the disciplined way — not a gamble.` | ~135 |
 
-*Why not "Qatobit: Crypto Wealth"?* "Crypto indices" and "SIP" carry distinct search demand and zero direct competitor occupies them in India — putting them in the title is a low-competition land-grab (see Section 5).
+*v1 was* `Qatobit: Crypto Indices & SIP` / subtitle `Crypto Wealth, by Design`. The pressure test showed the slogan read as unverifiable marketing and "not for me"; the v2 subtitle puts a verifiable credential (the searched "FIU registered" intent) and the sharp disciplined-allocation frame in the second-most-scanned field. Singular "Index" matches the high-intent `crypto index fund` query stem. "Crypto index" + "SIP" remain a low-competition land-grab no direct competitor occupies (Section 5).
 
 ---
 
@@ -194,15 +195,15 @@ State affirmatively: data is encrypted in transit; users can request deletion; t
 
 ## 8. Visual Assets — confirmation requested by the design team
 
-Per the requirements doc, the design team will produce all graphics; they only need **confirmation of which 5 screens** to feature. Recommended screenshot sequence (order = conversion order; first 2 are seen without scrolling and matter most):
+Per the requirements doc, the design team will produce all graphics; they only need **confirmation of which 5 screens** to feature. **Order revised to v2** after the pressure test — 11 of 15 personas decide before slot 3, and the original methodology-first lead repelled the largest (beginner) cluster while burying the trust signals everyone wanted. Order = conversion order; slots 1–2 are seen without scrolling and matter most:
 
-1. **The methodology view** — a QSI index page showing construction logic. *Caption: "Read the methodology before you invest."* (This is the differentiator — lead with it.)
-2. **The four QSI Crypto Indices** — Core / Growth / VRION / GEQ10 at a glance. *Caption: "Four indices. One disciplined system."*
-3. **Crypto SIP setup** — recurring investment screen. *Caption: "Invest on schedule. Let time compound."*
-4. **Portfolio / dashboard** — holdings + performance. *Caption: "A portfolio you can actually explain."*
-5. **Trust screen** — Live Proof of Reserves + FIU-IND registered badge. *Caption: "Trust you can verify."*
+1. **Trust screen** — Live Proof of Reserves + FIU-IND badge. *Caption: "Live Proof of Reserves. FIU-IND registered (provisional). Your money, verifiable anytime."* (Strongest card — must lead.)
+2. **Crypto SIP setup** with a concrete minimum. *Caption: "Start a Crypto SIP from ₹[X]/month. No trading skills needed."*
+3. **The four QSI Crypto Indices** — now decoded. *Caption: "Core = blue-chip basket · Growth = [mandate] · VRION = [mandate] · GEQ10 = top 10 tokenized global equities. An index — like a Nifty 50, for crypto."*
+4. **The methodology view** — a QSI index's construction logic. *Caption: "Published inclusion/exclusion rules. Monthly rebalancing. See the methodology before you invest."* (Kept for sophisticated investors, moved out of the lead.)
+5. **Portfolio / dashboard** — holdings at a glance. *Caption: "Track your allocation in one view."*
 
-Optional 6th: **Qai** AI companion in action. Asset specs needed: App Icon 1024×1024, Splash, Play feature graphic 1024×500, iPhone 6.7" + 6.5"/5.5" screenshots, Android screenshots.
+**Add when produced:** a *"Buy Bitcoin in 2 taps"* buy-flow screenshot (beginner on-ramp), and a **social-proof overlay** (rating / install count / AUM / "Trusted by N investors") on slot 1–2 the moment an honest number exists — 9 personas stalled on missing reputation. Optional: **Qai** AI companion. Asset specs: App Icon 1024×1024, Splash, Play feature graphic 1024×500, iPhone 6.7" + 6.5"/5.5", Android screenshots.
 
 ---
 
