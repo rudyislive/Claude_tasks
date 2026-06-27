@@ -110,7 +110,9 @@
 | **App Title** (≤30) | `Qatobit: Crypto Indices & SIP` | `Qatobit: Crypto Index & SIP` | 27 |
 | **Apple Subtitle** (≤30) | `Crypto Wealth, by Design` | `Invest in crypto, by design.` | 28 |
 | **Short Desc** (≤80) | `India's Crypto Wealth Architect. Crypto indices, SIP & tokenized assets.` | `Rules-based Crypto Indices & SIP. Live Proof of Reserves. Start from ₹[X].` | 74 |
-| **Apple Keyword** (≤100) | `crypto,bitcoin,index,sip,invest,trading,exchange,portfolio,ethereum,usdt,wealth,fund,btc,coin` | `safe,secure,index,fund,sip,invest,investment,beginner,wealth,portfolio,tokenized,stocks,bitcoin,app` | 99 |
+| **Apple Keyword** (≤100) | `crypto,bitcoin,index,sip,invest,trading,exchange,portfolio,ethereum,usdt,wealth,fund,btc,coin` | `safe,secure,fund,invest,beginner,wealth,portfolio,tokenized,stocks,rebalance,rupee,bitcoin,RWA` | 94 |
+
+> **Reconciled with the prior ASO report (final):** the keyword field above now **excludes title words** `crypto/index/sip` (already indexed via the title — ASO best practice the report applied), freeing space for `rebalance/rupee/RWA`. See `Qatobit_PlayStore_AppStore_Listing.md` for the canonical FINAL listing (Hybrid positioning + the report's confirmed facts: entity, 18+ rating, index mandates, disclaimer, data safety).
 
 **Why each change:**
 - **Title →** keeps the owned, beatable category land-grab (`crypto index` 880/0.33) + `SIP`. Singular "Index" matches the high-intent `crypto index fund` stem and reads less like insider code.
